@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>X Store - Cart</title>
+  <link rel="stylesheet" href="styling/style.css" />
+  <link rel="stylesheet" href="styling/cart.css" />
+</head>
+<body>
+  <nav>
+    <a href="home.html"><h1>X <span style="color: black">Store</span></h1></a>
+    <input type="text" placeholder="Search products..." />
+    <a href="cart.html"><div class="cart">🛒 <span style="color: black">0</span></div></a>
+  </nav>
+
+  <div class="cart-section">
+    <div class="cart-grid"></div>
+
+
+    <div class="cart-section">
+  <div class="cart-grid"></div>
+  
+  <div class="cart-summary">
+    <div class="summary-details">
+      <span>Total Amount:</span>
+      <span id="grand-total">$0.00</span>
+    </div>
+    <button class="checkout-btn">Proceed to Checkout</button>
+  </div>
+</div>
+  </div>
+
+  <script src="template/cart.js"></script>
+</body>
+</html>

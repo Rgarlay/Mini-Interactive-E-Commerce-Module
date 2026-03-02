@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "d2480652-fcd9-4a05-b88a-cfd3ee99b510",
+    "name": "Soft Plush Throw Blanket",
+    "description": "Vestibulum ac est lacinia nisi venenatis tristique.",
+    "price": 259.18,
+    "category": "Electronics",
+    "stock": 9,
+    "image": "http://dummyimage.com/249x100.png/ff4444/ffffff",
+    "createdAt": "8/19/2022"
+  },
+  {
+    "id": "3efbd6a5-fabd-4d0c-bf60-1353de074527",
+    "name": "Drone",
+    "description": "In hac habitasse platea dictumst.",
+    "price": 149.65,
+    "category": "Industrial",
+    "stock": 18,
+    "image": "http://dummyimage.com/189x100.png/ff4444/ffffff",
+    "createdAt": "2/27/2022"
+  },
+  {
+    "id": "0fd273ee-b363-4d83-978b-33b8d1997c45",
+    "name": "Scent Diffuser",
+    "description": "Nullam varius.",
+    "price": 95.52,
+    "category": "Baby",
+    "stock": 36,
+    "image": "http://dummyimage.com/115x100.png/dddddd/000000",
+    "createdAt": "2/2/2022"
+  },
+  {
+    "id": "d826feeb-2137-483b-b176-8910d8bccd39",
+    "name": "Organic Coconut Yogurt",
+    "description": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
+    "price": 243.95,
+    "category": "Books",
+    "stock": 34,
+    "image": "http://dummyimage.com/221x100.png/5fa2dd/ffffff",
+    "createdAt": "8/3/2020"
+  },
+  {
+    "id": "104e648a-98a2-4af3-8c97-2436e019fe9e",
+    "name": "Sesame Oil",
+    "description": "Cras in purus eu magna vulputate luctus.",
+    "price": 238.7,
+    "category": "Baby",
+    "stock": 16,
+    "image": "http://dummyimage.com/126x100.png/ff4444/ffffff",
+    "createdAt": "6/18/2020"
+  },
+  {
+    "id": "3a79e9d2-01ab-4a25-a493-e089e70d92e9",
+    "name": "Mini Hand Gesture Drone",
+    "description": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",
+    "price": 170,
+    "category": "Movies",
+    "stock": 42,
+    "image": "http://dummyimage.com/198x100.png/dddddd/000000",
+    "createdAt": "6/5/2025"
+  },
+  {
+    "id": "01baf088-a9ee-4e63-a7c8-c3ba4c3abb55",
+    "name": "Sliced Olives",
+    "description": "Duis ac nibh.",
+    "price": 125.81,
+    "category": "Garden",
+    "stock": 47,
+    "image": "http://dummyimage.com/199x100.png/dddddd/000000",
+    "createdAt": "9/12/2016"
+  },
+  {
+    "id": "1325f09a-7166-4673-bfa7-17e4f8ae2241",
+    "name": "Pet Waterer with Filtration",
+    "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+    "price": 398.61,
+    "category": "Sports",
+    "stock": 26,
+    "image": "http://dummyimage.com/131x100.png/5fa2dd/ffffff",
+    "createdAt": "12/27/2016"
+  },
+  {
+    "id": "0e5f7c11-d0a2-4f91-8037-550e0b4e1d9f",
+    "name": "Cereal Dispenser with Portion Control",
+    "description": "Sed accumsan felis.",
+    "price": 69.33,
+    "category": "Grocery",
+    "stock": 61,
+    "image": "http://dummyimage.com/112x100.png/5fa2dd/ffffff",
+    "createdAt": "8/29/2025"
+  },
+  {
+    "id": "dcba89e6-8da4-4f3b-800c-4ee2986b36da",
+    "name": "Creamy Spinach Dip",
+    "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
+    "price": 373.72,
+    "category": "Baby",
+    "stock": 50,
+    "image": "http://dummyimage.com/110x100.png/dddddd/000000",
+    "createdAt": "5/18/2023"
+  },
+  {
+    "id": "f5dc5945-a592-4548-8868-41471b09eb83",
+    "name": "Rice Noodles",
+    "description": "In eleifend quam a odio.",
+    "price": 316.79,
+    "category": "Tools",
+    "stock": 5,
+    "image": "http://dummyimage.com/121x100.png/dddddd/000000",
+    "createdAt": "8/10/2018"
+  },
+  {
+    "id": "975c6e30-26c6-45e8-9113-91ca93b6847b",
+    "name": "Smart Fitness Scale",
+    "description": "Nulla justo.",
+    "price": 76.02,
+    "category": "Books",
+    "stock": 37,
+    "image": "http://dummyimage.com/121x100.png/5fa2dd/ffffff",
+    "createdAt": "10/11/2022"
+  },
+  {
+    "id": "3993592d-239f-4a20-a4ce-5abdf8260534",
+    "name": "Grilled Veggie Burgers",
+    "description": "Integer tincidunt ante vel ipsum.",
+    "price": 435.28,
+    "category": "Baby",
+    "stock": 55,
+    "image": "http://dummyimage.com/160x100.png/ff4444/ffffff",
+    "createdAt": "10/12/2024"
+  },
+  {
+    "id": "f99f7570-aa07-42cb-9fd0-446614a2f219",
+    "name": "3D Night Light",
+    "description": "Duis bibendum.",
+    "price": 379.17,
+    "category": "Clothing",
+    "stock": 66,
+    "image": "http://dummyimage.com/117x100.png/5fa2dd/ffffff",
+    "createdAt": "8/7/2017"
+  },
+  {
+    "id": "6c67395e-96d5-49d4-9acb-a7d4ef6d1461",
+    "name": "Caramelized Onion Dip Mix",
+    "description": "In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "price": 92.93,
+    "category": "Computers",
+    "stock": 92,
+    "image": "http://dummyimage.com/181x100.png/5fa2dd/ffffff",
+    "createdAt": "7/9/2025"
+  },
+  {
+    "id": "388b6f91-e8d9-4581-911e-04c2c2e52f96",
+    "name": "Electric Egg Cooker",
+    "description": "Aenean auctor gravida sem.",
+    "price": 298.52,
+    "category": "Outdoors",
+    "stock": 1,
+    "image": "http://dummyimage.com/159x100.png/ff4444/ffffff",
+    "createdAt": "3/23/2025"
+  },
+  {
+    "id": "46e3ea25-3e14-4d7e-b3dd-f8d85099f6cb",
+    "name": "Fresh Basil",
+    "description": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+    "price": 378.98,
+    "category": "Tools",
+    "stock": 92,
+    "image": "http://dummyimage.com/250x100.png/ff4444/ffffff",
+    "createdAt": "8/3/2018"
+  },
+  {
+    "id": "eea6155d-94e6-4958-b8b1-d8bd05d69ae2",
+    "name": "Essential White Button-Up",
+    "description": "Praesent lectus.",
+    "price": 54.34,
+    "category": "Clothing",
+    "stock": 54,
+    "image": "http://dummyimage.com/217x100.png/ff4444/ffffff",
+    "createdAt": "3/3/2019"
+  },
+  {
+    "id": "d957a702-76e0-4141-9cb8-59921ceb33eb",
+    "name": "Frozen Acai Bowl",
+    "description": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.",
+    "price": 332.63,
+    "category": "Automotive",
+    "stock": 97,
+    "image": "http://dummyimage.com/156x100.png/5fa2dd/ffffff",
+    "createdAt": "7/3/2025"
+  },
+  {
+    "id": "58ed05c3-2089-47f9-80f6-bafd1bc4a87a",
+    "name": "Ice Pack",
+    "description": "Pellentesque viverra pede ac diam.",
+    "price": 258.65,
+    "category": "Games",
+    "stock": 39,
+    "image": "http://dummyimage.com/223x100.png/5fa2dd/ffffff",
+    "createdAt": "2/11/2017"
+  },
+  {
+    "id": "dbacc3f9-a032-421c-afa1-ecb7bd18388a",
+    "name": "Cocoa Powder",
+    "description": "Curabitur convallis.",
+    "price": 462.95,
+    "category": "Clothing",
+    "stock": 10,
+    "image": "http://dummyimage.com/152x100.png/ff4444/ffffff",
+    "createdAt": "12/19/2023"
+  },
+  {
+    "id": "304ee81d-abf2-49f9-8697-c28b1708c594",
+    "name": "Portable Speakers",
+    "description": "Maecenas pulvinar lobortis est.",
+    "price": 326.53,
+    "category": "Movies",
+    "stock": 58,
+    "image": "http://dummyimage.com/211x100.png/dddddd/000000",
+    "createdAt": "6/12/2022"
+  },
+  {
+    "id": "c9a450c0-996a-4c0c-945b-824c22480dd7",
+    "name": "Organic Baby Spinach",
+    "description": "Fusce consequat.",
+    "price": 284.31,
+    "category": "Jewelry",
+    "stock": 88,
+    "image": "http://dummyimage.com/230x100.png/5fa2dd/ffffff",
+    "createdAt": "1/1/2021"
+  },
+  {
+    "id": "8b767c14-f3ca-4424-a76b-d7f1c50fe72f",
+    "name": "Animal Paw Print Soap Dispenser",
+    "description": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+    "price": 377.07,
+    "category": "Music",
+    "stock": 87,
+    "image": "http://dummyimage.com/184x100.png/dddddd/000000",
+    "createdAt": "12/8/2024"
+  },
+  {
+    "id": "d4352a5e-54b8-46e8-97a1-c1b70c1d9651",
+    "name": "Handheld Garment Steamer",
+    "description": "Proin at turpis a pede posuere nonummy.",
+    "price": 329.01,
+    "category": "Electronics",
+    "stock": 4,
+    "image": "http://dummyimage.com/189x100.png/dddddd/000000",
+    "createdAt": "2/14/2025"
+  },
+  {
+    "id": "61db6f38-636a-47e2-aa6e-89fa474de089",
+    "name": "Mediterranean Flatbread",
+    "description": "Etiam faucibus cursus urna.",
+    "price": 483.84,
+    "category": "Shoes",
+    "stock": 99,
+    "image": "http://dummyimage.com/173x100.png/5fa2dd/ffffff",
+    "createdAt": "5/14/2023"
+  },
+  {
+    "id": "20964d4f-59a9-464e-8f86-f62aa1e9c6c3",
+    "name": "Cereal Dispenser with Portion Control",
+    "description": "Phasellus id sapien in sapien iaculis congue.",
+    "price": 491.5,
+    "category": "Grocery",
+    "stock": 13,
+    "image": "http://dummyimage.com/235x100.png/dddddd/000000",
+    "createdAt": "8/24/2016"
+  },
+  {
+    "id": "98f0bf2f-ab26-4ee0-b260-ce02c39fe1a4",
+    "name": "Stylish Wireless Earbuds",
+    "description": "Nam tristique tortor eu pede.",
+    "price": 420.19,
+    "category": "Baby",
+    "stock": 38,
+    "image": "http://dummyimage.com/239x100.png/cc0000/ffffff",
+    "createdAt": "1/10/2020"
+  },
+  {
+    "id": "10af5cac-1028-482f-872d-7a638d5c9947",
+    "name": "Foam Building Blocks for Kids",
+    "description": "Sed accumsan felis.",
+    "price": 32.43,
+    "category": "Books",
+    "stock": 35,
+    "image": "http://dummyimage.com/202x100.png/cc0000/ffffff",
+    "createdAt": "1/13/2017"
+  },
+  {
+    "id": "f6134b52-a9cf-42c9-af8e-4dbe7eb53fc5",
+    "name": "Herbal Garden Starter Kit",
+    "description": "Morbi vel lectus in quam fringilla rhoncus.",
+    "price": 117.47,
+    "category": "Games",
+    "stock": 31,
+    "image": "http://dummyimage.com/191x100.png/cc0000/ffffff",
+    "createdAt": "9/13/2021"
+  },
+  {
+    "id": "7d8bc3e4-d344-479c-9e57-08c1238ef23b",
+    "name": "Peach & Mango Salsa",
+    "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+    "price": 155.45,
+    "category": "Shoes",
+    "stock": 47,
+    "image": "http://dummyimage.com/112x100.png/dddddd/000000",
+    "createdAt": "6/7/2017"
+  },
+  {
+    "id": "76c9385a-3c15-490d-bb3d-5d746cb5d8ed",
+    "name": "USB Wall Charger",
+    "description": "Suspendisse accumsan tortor quis turpis.",
+    "price": 52.83,
+    "category": "Clothing",
+    "stock": 58,
+    "image": "http://dummyimage.com/177x100.png/5fa2dd/ffffff",
+    "createdAt": "6/27/2021"
+  },
+  {
+    "id": "7d636ffc-9133-44b8-8122-e51f207772fb",
+    "name": "Children's Backpack",
+    "description": "Sed sagittis.",
+    "price": 93.88,
+    "category": "Tools",
+    "stock": 39,
+    "image": "http://dummyimage.com/155x100.png/5fa2dd/ffffff",
+    "createdAt": "2/23/2025"
+  },
+  {
+    "id": "fabe0cfa-5122-435b-ac36-40599e852c0f",
+    "name": "Gardening Tool Belt",
+    "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+    "price": 389.35,
+    "category": "Tools",
+    "stock": 76,
+    "image": "http://dummyimage.com/249x100.png/ff4444/ffffff",
+    "createdAt": "5/15/2023"
+  },
+  {
+    "id": "39cb17f1-e9db-4eac-9906-882c6549ddf7",
+    "name": "Fruit and Nut Energy Bites",
+    "description": "Maecenas pulvinar lobortis est.",
+    "price": 204.45,
+    "category": "Tools",
+    "stock": 92,
+    "image": "http://dummyimage.com/234x100.png/dddddd/000000",
+    "createdAt": "8/29/2024"
+  },
+  {
+    "id": "c6920bf1-cdb6-4edc-8e68-642530c9815a",
+    "name": "Fitness Jump Rope with LCD Counter",
+    "description": "Pellentesque eget nunc.",
+    "price": 31.08,
+    "category": "Automotive",
+    "stock": 99,
+    "image": "http://dummyimage.com/226x100.png/5fa2dd/ffffff",
+    "createdAt": "6/22/2024"
+  },
+  {
+    "id": "64f097b4-aba8-44f3-81d1-014541c0d6b2",
+    "name": "Scented Soy Candles",
+    "description": "Sed accumsan felis.",
+    "price": 339.46,
+    "category": "Industrial",
+    "stock": 65,
+    "image": "http://dummyimage.com/122x100.png/cc0000/ffffff",
+    "createdAt": "10/25/2018"
+  },
+  {
+    "id": "02cda513-44f7-4406-9f53-f5faf673e480",
+    "name": "Stainless Steel Straws",
+    "description": "In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "price": 237.27,
+    "category": "Health",
+    "stock": 70,
+    "image": "http://dummyimage.com/143x100.png/5fa2dd/ffffff",
+    "createdAt": "1/26/2018"
+  },
+  {
+    "id": "86e119fa-0897-41b1-ba4b-d787436d6b6c",
+    "name": "Classic Leather Wallet",
+    "description": "Fusce posuere felis sed lacus.",
+    "price": 161.87,
+    "category": "Beauty",
+    "stock": 2,
+    "image": "http://dummyimage.com/248x100.png/ff4444/ffffff",
+    "createdAt": "4/28/2018"
+  },
+  {
+    "id": "3f351e47-dd84-47f5-92ec-67fe6549df71",
+    "name": "Aged White Cheddar Popcorn",
+    "description": "Nunc rhoncus dui vel sem.",
+    "price": 355.38,
+    "category": "Tools",
+    "stock": 94,
+    "image": "http://dummyimage.com/226x100.png/cc0000/ffffff",
+    "createdAt": "1/12/2025"
+  },
+  {
+    "id": "f95e9ada-9741-4afd-ad3a-83ceda4a4ab0",
+    "name": "Sun-Dried Tomatoes",
+    "description": "Pellentesque ultrices mattis odio.",
+    "price": 83.27,
+    "category": "Electronics",
+    "stock": 36,
+    "image": "http://dummyimage.com/100x100.png/cc0000/ffffff",
+    "createdAt": "11/23/2025"
+  },
+  {
+    "id": "c9bf3277-73f8-4c92-adf9-72ffed92b485",
+    "name": "Dog Waste Bag Dispenser",
+    "description": "Maecenas tincidunt lacus at velit.",
+    "price": 236.69,
+    "category": "Electronics",
+    "stock": 7,
+    "image": "http://dummyimage.com/232x100.png/5fa2dd/ffffff",
+    "createdAt": "1/3/2025"
+  },
+  {
+    "id": "b0989e92-5bc1-4e3b-8cc8-834a332df76b",
+    "name": "Pumpkin Seeds",
+    "description": "Suspendisse ornare consequat lectus.",
+    "price": 22.98,
+    "category": "Movies",
+    "stock": 66,
+    "image": "http://dummyimage.com/190x100.png/5fa2dd/ffffff",
+    "createdAt": "2/7/2024"
+  },
+  {
+    "id": "76fe5923-3317-4500-8a8f-76367172c2d4",
+    "name": "Reversible Comforter Set",
+    "description": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.",
+    "price": 422.28,
+    "category": "Games",
+    "stock": 35,
+    "image": "http://dummyimage.com/203x100.png/5fa2dd/ffffff",
+    "createdAt": "6/22/2020"
+  },
+  {
+    "id": "a7f8c703-c290-47cd-9c85-2b47351c7cd6",
+    "name": "Dark Chocolate Covered Raisins",
+    "description": "Nullam sit amet turpis elementum ligula vehicula consequat.",
+    "price": 260.89,
+    "category": "Health",
+    "stock": 96,
+    "image": "http://dummyimage.com/196x100.png/dddddd/000000",
+    "createdAt": "1/25/2022"
+  },
+  {
+    "id": "e32a7e76-5c28-4a17-bc40-00d75153ff35",
+    "name": "Fitbit Activity Tracker",
+    "description": "In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+    "price": 175.11,
+    "category": "Music",
+    "stock": 58,
+    "image": "http://dummyimage.com/153x100.png/dddddd/000000",
+    "createdAt": "6/3/2022"
+  },
+  {
+    "id": "ab688af2-a7fe-4935-a378-926b3298b2b9",
+    "name": "Cushion Covers",
+    "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+    "price": 288.79,
+    "category": "Tools",
+    "stock": 66,
+    "image": "http://dummyimage.com/161x100.png/cc0000/ffffff",
+    "createdAt": "2/24/2025"
+  },
+  {
+    "id": "9722bcb9-3df0-4d4a-8789-036910f8ab69",
+    "name": "Siphon Coffee Maker",
+    "description": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+    "price": 341.29,
+    "category": "Shoes",
+    "stock": 19,
+    "image": "http://dummyimage.com/236x100.png/cc0000/ffffff",
+    "createdAt": "1/18/2018"
+  },
+  {
+    "id": "6bbebd2a-0e84-40ab-9798-d20e835bc3c2",
+    "name": "Black Olives",
+    "description": "Integer a nibh.",
+    "price": 189.36,
+    "category": "Automotive",
+    "stock": 93,
+    "image": "http://dummyimage.com/104x100.png/ff4444/ffffff",
+    "createdAt": "9/15/2024"
+  },
+  {
+    "id": "ed1d1c6d-250e-43b9-94a2-022331f87ee3",
+    "name": "Wall Decals for Kids",
+    "description": "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+    "price": 393.14,
+    "category": "Sports",
+    "stock": 51,
+    "image": "http://dummyimage.com/116x100.png/5fa2dd/ffffff",
+    "createdAt": "11/5/2016"
+  },
+  {
+    "id": "621cb87f-db79-4484-81d5-61d01f08de09",
+    "name": "Compressible Packing Cubes",
+    "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
+    "price": 417.75,
+    "category": "Automotive",
+    "stock": 80,
+    "image": "http://dummyimage.com/193x100.png/5fa2dd/ffffff",
+    "createdAt": "7/5/2017"
+  },
+  {
+    "id": "4893be24-76d4-41c5-a628-316e3379b685",
+    "name": "Garden Kneeler and Seat",
+    "description": "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "price": 114.65,
+    "category": "Music",
+    "stock": 60,
+    "image": "http://dummyimage.com/189x100.png/5fa2dd/ffffff",
+    "createdAt": "9/16/2016"
+  },
+  {
+    "id": "6975164a-fcbf-46e6-b745-753cc2f4d545",
+    "name": "Sliced Bell Peppers",
+    "description": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam.",
+    "price": 328.95,
+    "category": "Grocery",
+    "stock": 63,
+    "image": "http://dummyimage.com/176x100.png/ff4444/ffffff",
+    "createdAt": "3/30/2023"
+  },
+  {
+    "id": "137f8636-4154-4dcb-92d0-9512c9ae5172",
+    "name": "Miso Soup Mix",
+    "description": "Vestibulum sed magna at nunc commodo placerat.",
+    "price": 215.42,
+    "category": "Outdoors",
+    "stock": 98,
+    "image": "http://dummyimage.com/195x100.png/dddddd/000000",
+    "createdAt": "3/22/2021"
+  },
+  {
+    "id": "800e7544-06d9-4ed4-815d-415c31bde723",
+    "name": "Essential Oil Roller Bottles",
+    "description": "Integer ac leo.",
+    "price": 476.01,
+    "category": "Jewelry",
+    "stock": 16,
+    "image": "http://dummyimage.com/137x100.png/5fa2dd/ffffff",
+    "createdAt": "12/13/2016"
+  },
+  {
+    "id": "385214dd-9c9a-448e-9fc8-a2982978f180",
+    "name": "Bamboo Utensil Set",
+    "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis.",
+    "price": 417.36,
+    "category": "Kids",
+    "stock": 62,
+    "image": "http://dummyimage.com/245x100.png/5fa2dd/ffffff",
+    "createdAt": "4/26/2024"
+  },
+  {
+    "id": "de4f0b1a-0cd2-4b5f-a0ea-aea7b41ca7fb",
+    "name": "Orange Ginger Vinaigrette",
+    "description": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+    "price": 357.79,
+    "category": "Movies",
+    "stock": 51,
+    "image": "http://dummyimage.com/169x100.png/ff4444/ffffff",
+    "createdAt": "5/22/2025"
+  },
+  {
+    "id": "5235f16b-7371-4292-9c07-86eec20b3040",
+    "name": "Comfortable Jogger Pants",
+    "description": "Proin interdum mauris non ligula pellentesque ultrices.",
+    "price": 354.04,
+    "category": "Grocery",
+    "stock": 51,
+    "image": "http://dummyimage.com/106x100.png/5fa2dd/ffffff",
+    "createdAt": "12/20/2020"
+  },
+  {
+    "id": "7009e655-2c97-4193-83e8-57cb99eccbeb",
+    "name": "Honey Mustard Sauce",
+    "description": "Etiam vel augue.",
+    "price": 485.82,
+    "category": "Music",
+    "stock": 34,
+    "image": "http://dummyimage.com/210x100.png/cc0000/ffffff",
+    "createdAt": "1/5/2024"
+  },
+  {
+    "id": "8a5058e5-4437-4650-b027-76dee6c4b0dc",
+    "name": "Tailored Dress Pants",
+    "description": "Proin eu mi.",
+    "price": 371.83,
+    "category": "Health",
+    "stock": 87,
+    "image": "http://dummyimage.com/113x100.png/cc0000/ffffff",
+    "createdAt": "2/23/2025"
+  },
+  {
+    "id": "d903db50-5788-44c8-8e1b-b8eea0aa3b2a",
+    "name": "Sriracha Honey Glaze",
+    "description": "Suspendisse accumsan tortor quis turpis.",
+    "price": 401.07,
+    "category": "Sports",
+    "stock": 66,
+    "image": "http://dummyimage.com/120x100.png/ff4444/ffffff",
+    "createdAt": "5/20/2023"
+  },
+  {
+    "id": "a5375874-f502-4d37-bf79-41a980e3f28f",
+    "name": "Marinated Artichokes",
+    "description": "Nulla ut erat id mauris vulputate elementum.",
+    "price": 353.06,
+    "category": "Kids",
+    "stock": 63,
+    "image": "http://dummyimage.com/110x100.png/cc0000/ffffff",
+    "createdAt": "4/4/2016"
+  },
+  {
+    "id": "ddc11327-de75-4c42-9a63-ebdbc4ff7436",
+    "name": "Sliced Bread",
+    "description": "Suspendisse potenti.",
+    "price": 274.39,
+    "category": "Toys",
+    "stock": 35,
+    "image": "http://dummyimage.com/204x100.png/cc0000/ffffff",
+    "createdAt": "10/17/2018"
+  },
+  {
+    "id": "8c8f4ffd-1aa8-4aa0-a67d-8e53d17b93f0",
+    "name": "Travel Mug with Leak-Proof Lid",
+    "description": "Aliquam sit amet diam in magna bibendum imperdiet.",
+    "price": 490.92,
+    "category": "Kids",
+    "stock": 62,
+    "image": "http://dummyimage.com/219x100.png/5fa2dd/ffffff",
+    "createdAt": "6/18/2021"
+  },
+  {
+    "id": "6b9ba494-6628-4ea4-978d-9b531dddc832",
+    "name": "Sweet Potato Tots",
+    "description": "Cras non velit nec nisi vulputate nonummy.",
+    "price": 111.79,
+    "category": "Books",
+    "stock": 75,
+    "image": "http://dummyimage.com/135x100.png/cc0000/ffffff",
+    "createdAt": "5/1/2022"
+  },
+  {
+    "id": "21695d6a-68e1-415a-8bcb-a3d4aee1b72e",
+    "name": "Personal Blender with Cups",
+    "description": "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "price": 167.22,
+    "category": "Home",
+    "stock": 83,
+    "image": "http://dummyimage.com/189x100.png/dddddd/000000",
+    "createdAt": "9/10/2025"
+  },
+  {
+    "id": "dc30c365-da6d-4c5b-8d28-fdbba00b2045",
+    "name": "Pumpkin Spice Latte Mix",
+    "description": "In hac habitasse platea dictumst.",
+    "price": 374.98,
+    "category": "Electronics",
+    "stock": 73,
+    "image": "http://dummyimage.com/144x100.png/5fa2dd/ffffff",
+    "createdAt": "5/11/2020"
+  },
+  {
+    "id": "79fde647-4e7a-41be-a1f3-1be3aedd7f4b",
+    "name": "Reflective Safety Vest",
+    "description": "Nulla justo.",
+    "price": 352,
+    "category": "Toys",
+    "stock": 86,
+    "image": "http://dummyimage.com/243x100.png/ff4444/ffffff",
+    "createdAt": "10/7/2016"
+  },
+  {
+    "id": "c95f6c24-2967-4aa2-a8ca-2fc8962ade70",
+    "name": "Chocolate Chip Pancake Mix",
+    "description": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+    "price": 406.45,
+    "category": "Home",
+    "stock": 82,
+    "image": "http://dummyimage.com/176x100.png/dddddd/000000",
+    "createdAt": "1/9/2025"
+  },
+  {
+    "id": "e8e8e31f-d641-4313-9ab9-f060e68cf3f3",
+    "name": "Maple Pecan Pancake Mix",
+    "description": "Nam nulla.",
+    "price": 29.48,
+    "category": "Health",
+    "stock": 36,
+    "image": "http://dummyimage.com/129x100.png/cc0000/ffffff",
+    "createdAt": "10/4/2022"
+  },
+  {
+    "id": "a1f101b9-059a-4b90-a3cc-f4d49797ab13",
+    "name": "Carrot Ginger Soup",
+    "description": "Quisque ut erat.",
+    "price": 185.8,
+    "category": "Games",
+    "stock": 19,
+    "image": "http://dummyimage.com/236x100.png/dddddd/000000",
+    "createdAt": "8/15/2020"
+  },
+  {
+    "id": "58454919-74a7-4bfa-9e64-bac60b011166",
+    "name": "Pressure Washer Accessories Kit",
+    "description": "Nulla suscipit ligula in lacus.",
+    "price": 65.46,
+    "category": "Tools",
+    "stock": 65,
+    "image": "http://dummyimage.com/136x100.png/dddddd/000000",
+    "createdAt": "3/29/2020"
+  },
+  {
+    "id": "934c96fc-ab28-474e-a941-2a0a97b5abb7",
+    "name": "Ginger Turmeric Latte Mix",
+    "description": "Nunc purus.",
+    "price": 486.73,
+    "category": "Baby",
+    "stock": 90,
+    "image": "http://dummyimage.com/161x100.png/dddddd/000000",
+    "createdAt": "11/19/2023"
+  },
+  {
+    "id": "669942d5-7413-43cb-86f1-03d4c7cedcc5",
+    "name": "Bluetooth Headphones",
+    "description": "Vivamus vel nulla eget eros elementum pellentesque.",
+    "price": 466.18,
+    "category": "Garden",
+    "stock": 1,
+    "image": "http://dummyimage.com/185x100.png/cc0000/ffffff",
+    "createdAt": "11/22/2021"
+  },
+  {
+    "id": "fe627fc7-4bad-404c-ad38-ec9843d5e43f",
+    "name": "Kids' Outdoor Explorer Kit",
+    "description": "Phasellus sit amet erat.",
+    "price": 254.39,
+    "category": "Garden",
+    "stock": 4,
+    "image": "http://dummyimage.com/238x100.png/cc0000/ffffff",
+    "createdAt": "5/5/2018"
+  },
+  {
+    "id": "23de3e11-7ecf-43ac-bbd6-3a6c0fa0b8ca",
+    "name": "Wireless Charging Station",
+    "description": "Nullam porttitor lacus at turpis.",
+    "price": 446.99,
+    "category": "Industrial",
+    "stock": 7,
+    "image": "http://dummyimage.com/146x100.png/ff4444/ffffff",
+    "createdAt": "1/14/2020"
+  },
+  {
+    "id": "3139476e-c7d7-44e5-89d9-5a58663b80f4",
+    "name": "Camera Lens Cleaning Kit",
+    "description": "Pellentesque ultrices mattis odio.",
+    "price": 175.73,
+    "category": "Beauty",
+    "stock": 12,
+    "image": "http://dummyimage.com/165x100.png/5fa2dd/ffffff",
+    "createdAt": "8/11/2017"
+  },
+  {
+    "id": "b890a636-74ac-4f98-97c6-191a2877c7ac",
+    "name": "Water-Resistant Bluetooth Speaker",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+    "price": 253.03,
+    "category": "Toys",
+    "stock": 35,
+    "image": "http://dummyimage.com/195x100.png/cc0000/ffffff",
+    "createdAt": "6/5/2020"
+  },
+  {
+    "id": "5ab996f5-e2c2-4b6e-b8d2-6ecfd7552f9c",
+    "name": "Bamboo Cutting Board",
+    "description": "Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+    "price": 172.68,
+    "category": "Kids",
+    "stock": 84,
+    "image": "http://dummyimage.com/199x100.png/ff4444/ffffff",
+    "createdAt": "9/17/2016"
+  },
+  {
+    "id": "01e4372d-051a-420b-ae72-89422722ed7d",
+    "name": "Self-Inflating Camping Mattress",
+    "description": "Nunc purus.",
+    "price": 51.31,
+    "category": "Sports",
+    "stock": 28,
+    "image": "http://dummyimage.com/224x100.png/dddddd/000000",
+    "createdAt": "1/11/2017"
+  },
+  {
+    "id": "cdf34339-d793-4aac-b925-38ce1b8bcc05",
+    "name": "Coffee Grinder",
+    "description": "Quisque porta volutpat erat.",
+    "price": 203.83,
+    "category": "Health",
+    "stock": 93,
+    "image": "http://dummyimage.com/187x100.png/cc0000/ffffff",
+    "createdAt": "10/25/2021"
+  },
+  {
+    "id": "0ff57f2a-1a39-4bba-8c13-9a96b5c38d34",
+    "name": "Phone Screen Protector",
+    "description": "Donec vitae nisi.",
+    "price": 392.28,
+    "category": "Home",
+    "stock": 42,
+    "image": "http://dummyimage.com/212x100.png/cc0000/ffffff",
+    "createdAt": "5/20/2023"
+  },
+  {
+    "id": "bb13f613-2c18-41d7-82be-f0f81f51ec97",
+    "name": "Crispy Onion Rings",
+    "description": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.",
+    "price": 160.9,
+    "category": "Music",
+    "stock": 8,
+    "image": "http://dummyimage.com/131x100.png/ff4444/ffffff",
+    "createdAt": "1/7/2024"
+  },
+  {
+    "id": "d1036eee-a2b9-475e-811c-793469786c25",
+    "name": "Cereal Dispenser with Portion Control",
+    "description": "Mauris lacinia sapien quis libero.",
+    "price": 290.77,
+    "category": "Toys",
+    "stock": 2,
+    "image": "http://dummyimage.com/182x100.png/dddddd/000000",
+    "createdAt": "11/10/2019"
+  },
+  {
+    "id": "e5a5a5eb-8d73-422e-b139-562387f5ed7b",
+    "name": "Water-Resistant Bluetooth Speaker",
+    "description": "Proin interdum mauris non ligula pellentesque ultrices.",
+    "price": 256.93,
+    "category": "Home",
+    "stock": 57,
+    "image": "http://dummyimage.com/155x100.png/ff4444/ffffff",
+    "createdAt": "9/18/2017"
+  },
+  {
+    "id": "35bcd53e-c437-410b-bf52-dba641171b47",
+    "name": "Dried Mango Slices",
+    "description": "In quis justo.",
+    "price": 304.53,
+    "category": "Sports",
+    "stock": 84,
+    "image": "http://dummyimage.com/160x100.png/ff4444/ffffff",
+    "createdAt": "6/18/2019"
+  },
+  {
+    "id": "52b79cda-8d00-4a3e-8bf0-a87cd232d97c",
+    "name": "Tofu",
+    "description": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla.",
+    "price": 225.89,
+    "category": "Toys",
+    "stock": 9,
+    "image": "http://dummyimage.com/221x100.png/5fa2dd/ffffff",
+    "createdAt": "3/11/2021"
+  },
+  {
+    "id": "5be28183-31d3-4f23-add4-fe641739f44e",
+    "name": "Mediterranean Olives",
+    "description": "Fusce posuere felis sed lacus.",
+    "price": 337.68,
+    "category": "Grocery",
+    "stock": 43,
+    "image": "http://dummyimage.com/208x100.png/cc0000/ffffff",
+    "createdAt": "1/14/2021"
+  },
+  {
+    "id": "42bf067c-2994-4468-9035-944576c2371e",
+    "name": "Sliced Strawberries",
+    "description": "Quisque porta volutpat erat.",
+    "price": 465.11,
+    "category": "Grocery",
+    "stock": 61,
+    "image": "http://dummyimage.com/194x100.png/ff4444/ffffff",
+    "createdAt": "12/8/2019"
+  },
+  {
+    "id": "4183c76a-ba39-4335-bef6-e187dbb5935c",
+    "name": "Oven Mitts with Pocket",
+    "description": "Nunc nisl.",
+    "price": 164.53,
+    "category": "Toys",
+    "stock": 6,
+    "image": "http://dummyimage.com/117x100.png/cc0000/ffffff",
+    "createdAt": "5/29/2024"
+  },
+  {
+    "id": "f2406b91-088f-4235-970c-05cd9c1bc3d5",
+    "name": "Stick Vacuums Cleaner",
+    "description": "Cras non velit nec nisi vulputate nonummy.",
+    "price": 12.97,
+    "category": "Jewelry",
+    "stock": 40,
+    "image": "http://dummyimage.com/194x100.png/cc0000/ffffff",
+    "createdAt": "4/4/2019"
+  },
+  {
+    "id": "46266ebd-966a-4cd2-a6cc-97231430bfe8",
+    "name": "Chocolate Coconut Protein Balls",
+    "description": "Donec quis orci eget orci vehicula condimentum.",
+    "price": 185.48,
+    "category": "Computers",
+    "stock": 45,
+    "image": "http://dummyimage.com/170x100.png/5fa2dd/ffffff",
+    "createdAt": "2/14/2019"
+  },
+  {
+    "id": "66b71342-5605-4fc7-8d3f-d9528d0ef4ce",
+    "name": "Roasted Garlic Aioli",
+    "description": "Vivamus vel nulla eget eros elementum pellentesque.",
+    "price": 217.6,
+    "category": "Beauty",
+    "stock": 78,
+    "image": "http://dummyimage.com/179x100.png/5fa2dd/ffffff",
+    "createdAt": "12/3/2021"
+  },
+  {
+    "id": "a35f2eba-d2a3-4d0e-afa1-2c5dd54a3ecd",
+    "name": "Fall-Themed Table Runner",
+    "description": "Sed ante.",
+    "price": 460.39,
+    "category": "Jewelry",
+    "stock": 10,
+    "image": "http://dummyimage.com/121x100.png/5fa2dd/ffffff",
+    "createdAt": "1/29/2022"
+  },
+  {
+    "id": "791bb622-bd6e-4408-af56-03486c5b6c8b",
+    "name": "Adjustable Skipping Rope",
+    "description": "Vivamus tortor.",
+    "price": 370.04,
+    "category": "Home",
+    "stock": 68,
+    "image": "http://dummyimage.com/242x100.png/ff4444/ffffff",
+    "createdAt": "5/3/2022"
+  },
+  {
+    "id": "777a22b5-2004-4e9e-8004-c1f4d511b74a",
+    "name": "Smart Light Switch",
+    "description": "Nullam sit amet turpis elementum ligula vehicula consequat.",
+    "price": 348.57,
+    "category": "Beauty",
+    "stock": 14,
+    "image": "http://dummyimage.com/226x100.png/5fa2dd/ffffff",
+    "createdAt": "4/16/2021"
+  },
+  {
+    "id": "d1b6b4b1-2575-4b46-a89f-c656f1f7d833",
+    "name": "DIY Candle Kit",
+    "description": "Donec vitae nisi.",
+    "price": 381.72,
+    "category": "Tools",
+    "stock": 25,
+    "image": "http://dummyimage.com/213x100.png/ff4444/ffffff",
+    "createdAt": "9/25/2020"
+  },
+  {
+    "id": "b5998a5b-a510-4483-a1af-3baecce3a163",
+    "name": "Athletic Jogging Jacket",
+    "description": "Curabitur at ipsum ac tellus semper interdum.",
+    "price": 356.39,
+    "category": "Books",
+    "stock": 69,
+    "image": "http://dummyimage.com/105x100.png/dddddd/000000",
+    "createdAt": "12/4/2021"
+  },
+  {
+    "id": "5ddc61a5-6d69-482c-a285-0b21203ae893",
+    "name": "Sea Salt Caramel Popcorn",
+    "description": "Suspendisse potenti.",
+    "price": 388.51,
+    "category": "Sports",
+    "stock": 57,
+    "image": "http://dummyimage.com/120x100.png/dddddd/000000",
+    "createdAt": "10/14/2019"
+  },
+  {
+    "id": "532860d6-64c1-4821-8fff-2fc96b8f0623",
+    "name": "Falafel Mix",
+    "description": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo.",
+    "price": 439.12,
+    "category": "Sports",
+    "stock": 35,
+    "image": "http://dummyimage.com/113x100.png/cc0000/ffffff",
+    "createdAt": "11/11/2023"
+  }
+]
