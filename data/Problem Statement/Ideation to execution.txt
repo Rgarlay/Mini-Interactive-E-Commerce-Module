@@ -1,0 +1,21 @@
+ I want to make a function which calls the cart database from backend and takes all the quantities and sums all of them and returns the number.s
+
+
+1. Let's built backend api to get the total number.
+Half done. Debugged it by myself.
+
+
+2. Test that quickly.
+3. Call that to front end via function.
+4. put that into the cart element.
+
+It's done.
+
+
+Now, i want to do the same for each elements. 
+
+1. Get their quantity count from dbs.
+2. Put them into the front end via an API.
+
+
+I need a function that POST function that can send a +1 request each time a button is clicked.

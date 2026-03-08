@@ -61,6 +61,10 @@
       cursor: pointer;
     }
 
+a {
+  text-decoration: none;
+}
+
     /* Products Section */
     .products-section {
       margin: 30px 40px;

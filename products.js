@@ -1,11 +1,7 @@
-
-
 const grid = document.getElementsByClassName('products-grid')[0];
 const cartCount = document.querySelector('.cart span');
 const cart = {}; 
 let totalCart = 0;
-
-
 
 function createCard(product) {
   const { _id, name, description, price, image } = product;
